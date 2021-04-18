@@ -30,8 +30,8 @@ The model alerts users on Hate Speech Content before posting and allows them to 
 
 ![image](https://user-images.githubusercontent.com/59905994/115131568-debcb600-9fad-11eb-9674-efdb9fc25ec0.png)
 
-### Results
 
 ![image](https://user-images.githubusercontent.com/59905994/115131577-ec723b80-9fad-11eb-82df-d1e85238f529.png)
 
-Data Source: Kaggle
+
+#### Data Source: Kaggle
